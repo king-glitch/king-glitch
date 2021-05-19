@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=king-glitch" alt="king-glitch" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/InYaretzi" target="blank"><img src="https://img.shields.io/twitter/follow/InYaretzi?logo=twitter&style=for-the-badge" alt="yaretzi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/InYaretzi" target="blank"><img src="https://img.shields.io/twitter/follow/InYaretzi?logo=twitter&style=for-the-badge" alt="InYaretzi" /></a> </p>
 
 - 🔭 I’m currently working on **something**
 
@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/king_glitch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="king_glitch" height="30" width="40" /></a>
-<a href="https://twitter.com/yaretzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="yaretzi" height="30" width="40" /></a>
+<a href="https://twitter.com/InYaretzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="InYaretzi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/king-glitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="king-glitch" height="30" width="40" /></a>
 <a href="https://fb.com/lostedstardust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="lostedstardust" height="30" width="40" /></a>
 <a href="https://instagram.com/_william.ts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_william.ts" height="30" width="40" /></a>
