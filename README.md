@@ -11,7 +11,7 @@
 
 ### - Trying to be Opensourcer.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="300" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
 
 ### - Learning
 - 🔭 I’m currently working on **something**
