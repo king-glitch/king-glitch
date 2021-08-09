@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiger</h1>
 
-<center>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22F771&vCenter=true&lines=A+perssionate+developer+from+nowhere.)](https://git.io/typing-svg)</center>
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22F771&vCenter=true&lines=A+perssionate+developer+from+nowhere.)](https://git.io/typing-svg)
 
 
 # ABOUT ME 💬
