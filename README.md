@@ -96,6 +96,9 @@ JavaScript               2 repos             ██████░░░░░�
  Last Updated on 09/08/2021
 <!--END_SECTION:waka-->
 
+
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Today's Quote
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Statistics
