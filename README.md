@@ -7,19 +7,20 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=king-glitch" alt="king-glitch" /></a> </p>
 
 
-About ME 💬 :
-- Trying to be Opensourcer.
+# About ME 💬 :
+
+### - Trying to be Opensourcer.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-- Learning :
+### - Learning :
 - 🔭 I’m currently working on **something**
 - 🤝 I’m looking for help with **something**
 
-- Hobbies :
-✨ Game Sometime
-✨ Programming Addict
-✨ Chit Chat
+### - Hobbies :
+- ✨ Game Sometime
+- ✨ Programming Addict
+- ✨ Chit Chat
 
 
 </br>
