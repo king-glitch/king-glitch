@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiger</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+passionate+developer;from+nowhere!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22F771&vCenter=true&lines=A+perssionate+developer+from+nowhere.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=king-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="king-glitch" /> </p>
 
