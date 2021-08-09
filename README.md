@@ -95,6 +95,8 @@ JavaScript               2 repos             ██████░░░░░�
  Last Updated on 09/08/2021
 <!--END_SECTION:waka-->
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=king-glitch&show_icons=true&locale=en" alt="king-glitch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king-glitch&" alt="king-glitch" /></p>
