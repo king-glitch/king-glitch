@@ -20,6 +20,10 @@
 # Todoist Stats
 
 <!-- TODO-IST:START -->
+🏆  100 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 0 tasks so far           
+⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=king-glitch&show_icons=true&locale=en" alt="king-glitch" /></p>
