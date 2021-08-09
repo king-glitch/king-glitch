@@ -5,15 +5,15 @@
 
 # ABOUT ME 💬
 
-### - Trying to be Opensourcer.
+### Trying to be Opensourcer.
 
 <img hight="200px" width="300px" alt="GIF" align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-### - Learning
+### Learning
 - 🔭 I’m currently working on **something**
 - 🤝 I’m looking for help with **something**
 
-### - Hobbies
+### Hobbies
 - ✨ Game Sometime
 - ✨ Programming Addict
 - ✨ Chit Chat
