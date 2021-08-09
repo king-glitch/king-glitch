@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tiger</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22F771&vCenter=true&lines=A+perssionate+developer+from+nowhere.)](https://git.io/typing-svg)
+<center>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22F771&vCenter=true&lines=A+perssionate+developer+from+nowhere.)](https://git.io/typing-svg)</center>
 
 
 
 
-# About ME 💬
+# ABOUT ME 💬
 
 ### - Trying to be Opensourcer.
 
@@ -33,7 +33,7 @@
 <!-- TODO-IST:END -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -43,29 +43,29 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
-🌆 Daytime    75 commits     █████░░░░░░░░░░░░░░░░░░░░   21.13% 
-🌃 Evening    119 commits    ████████░░░░░░░░░░░░░░░░░   33.52% 
-🌙 Night      103 commits    ███████░░░░░░░░░░░░░░░░░░   29.01%
+🌞 Morning    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
+🌆 Daytime    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
+🌃 Evening    119 commits    ████████░░░░░░░░░░░░░░░░░   35.21% 
+🌙 Night      103 commits    ███████░░░░░░░░░░░░░░░░░░   30.47%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       73 commits     █████░░░░░░░░░░░░░░░░░░░░   20.56% 
-Tuesday      50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
-Wednesday    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
-Thursday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
-Friday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
-Saturday     51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
-Sunday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.27%
+Monday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
+Tuesday      50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
+Wednesday    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
+Thursday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
+Friday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
+Saturday     51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
+Sunday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.83%
 
 ```
 
@@ -92,6 +92,10 @@ JavaScript               2 repos             ██████░░░░░�
 
 ```
 
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/king-glitch/king-glitch/main/charts/bar_graph.png) 
 
 
  Last Updated on 09/08/2021
