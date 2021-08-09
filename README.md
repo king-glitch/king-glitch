@@ -98,6 +98,8 @@ JavaScript               2 repos             ██████░░░░░�
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Statistics
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=king-glitch&show_icons=true&locale=en" alt="king-glitch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king-glitch&" alt="king-glitch" /></p>
