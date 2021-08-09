@@ -22,8 +22,6 @@
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=king-glitch&show_icons=true&locale=en&layout=compact" alt="king-glitch" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=king-glitch&show_icons=true&locale=en" alt="king-glitch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king-glitch&" alt="king-glitch" /></p>
