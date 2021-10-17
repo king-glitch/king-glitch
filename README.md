@@ -31,7 +31,6 @@
 <!-- TODO-IST:END -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -100,17 +99,12 @@ PHP                      2 repos             ██████░░░░░�
  Last Updated on 17/10/2021
 <!--END_SECTION:waka-->
 
-
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Today's Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Statistics
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=king-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="king-glitch" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=king-glitch" alt="king-glitch" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=king-glitch&show_icons=true&locale=en" alt="king-glitch" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=king-glitch" alt="king-glitch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king-glitch&" alt="king-glitch" /></p>
