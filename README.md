@@ -103,9 +103,15 @@ C#                       1 repo              ██░░░░░░░░░�
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Statistics
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=king-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="king-glitch" /> </p>
+<p align="left"> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=king-glitch&theme=dracula" alt="king-glitch" />
+ </a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=king-glitch" alt="king-glitch" /></a> </p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=king-glitch&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=king-glitch&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=king-glitch&theme=dracula)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=king-glitch" alt="king-glitch" /></p>
 
