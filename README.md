@@ -113,6 +113,6 @@ C#                       1 repo              ██░░░░░░░░░�
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=king-glitch&theme=dracula)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=king-glitch" alt="king-glitch" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=king-glitch&theme=dracula" alt="king-glitch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king-glitch&" alt="king-glitch" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king-glitch&theme=dracula" alt="king-glitch" /></p>
