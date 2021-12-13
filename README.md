@@ -31,8 +31,7 @@
 <!-- TODO-IST:END -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
+![Profile Views](https://komarev.com/ghpvc/?username=king-glitch)
 **🐱 My GitHub Data** 
 
 > 🏆 788 Contributions in the Year 2021
