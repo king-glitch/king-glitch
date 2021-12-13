@@ -31,7 +31,7 @@
 <!-- TODO-IST:END -->
 
 <!--START_SECTION:waka-->
-![Profile Views](https://komarev.com/ghpvc/?username=king-glitch)
+
 **🐱 My GitHub Data** 
 
 > 🏆 788 Contributions in the Year 2021
@@ -101,6 +101,8 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Statistics
+
+![Profile Views](https://komarev.com/ghpvc/?username=king-glitch)  
 
 <p align="left"> 
  <a href="https://github.com/ryo-ma/github-profile-trophy">
