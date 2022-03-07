@@ -33,9 +33,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   26 hrs 10 mins  █████████████████▒░░░░░░░   69.80 %
-Python       7 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   20.06 %
-Other        1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+TypeScript   23 hrs 21 mins  ████████████████▓░░░░░░░░   66.53 %
+Python       8 hrs 18 mins   ██████░░░░░░░░░░░░░░░░░░░   23.67 %
+Other        1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
 ```
 
 <!--END_SECTION:waka-->
