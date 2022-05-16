@@ -30,11 +30,72 @@
 <!-- TODO-IST:END -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 440 Contributions in the Year 2022
+ > 
+> 📦 352.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 10 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
-No activity tracked
+🌞 Morning    77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
+🌆 Daytime    192 commits    ████████░░░░░░░░░░░░░░░░░   32.05% 
+🌃 Evening    218 commits    █████████░░░░░░░░░░░░░░░░   36.39% 
+🌙 Night      112 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.7%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       122 commits    █████░░░░░░░░░░░░░░░░░░░░   20.37% 
+Tuesday      53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
+Wednesday    60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.02% 
+Thursday     134 commits    █████░░░░░░░░░░░░░░░░░░░░   22.37% 
+Friday       91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+Saturday     80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36% 
+Sunday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.85%
+
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     7 repos             █████████░░░░░░░░░░░░░░░░   36.84% 
+TypeScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   26.32% 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+
+```
+
+
+
+ Last Updated on 16/05/2022 01:21:30 UTC
 <!--END_SECTION:waka-->
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Statistics
