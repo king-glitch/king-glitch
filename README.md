@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22F771&vCenter=true&lines=A+perssionate+developer+from+nowhere.)](https://git.io/typing-svg)
 
-<img height="300px" alt="GIF" align="right" src="https://i.pinimg.com/originals/1f/b7/db/1fb7dbee557e5ed509f7517da8a84d58.gif">
+<img height="400px" alt="GIF" align="right" src="https://i.pinimg.com/originals/1f/b7/db/1fb7dbee557e5ed509f7517da8a84d58.gif">
 
 
 ### Learning
