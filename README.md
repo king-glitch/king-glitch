@@ -22,8 +22,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 501 Contributions in the Year 2022
