@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22F771&vCenter=true&lines=A+perssionate+developer+from+nowhere.)](https://git.io/typing-svg)
 
-<p >
+<p>
  <h3>Learning</h3>
  <ul>
   <li>🔭 I’m currently working on <b>something</b></li>
@@ -17,11 +17,11 @@
 </p>
 <p>
  <h3>Hobbies</h3>
-<ul>
- <li>✨ Programming Addict</b></li>
- <li>✨ Game Sometime</b></li>
- <li>✨ Chit Chat</b></li>
-</ul>
+ <ul>
+  <li>✨ Programming Addict</b></li>
+  <li>✨ Game Sometime</b></li>
+  <li>✨ Chit Chat</b></li>
+ </ul>
  <img height="470px" align="right"  alt="GIF" src="https://i.pinimg.com/originals/1f/b7/db/1fb7dbee557e5ed509f7517da8a84d58.gif" />
 </p>
 
