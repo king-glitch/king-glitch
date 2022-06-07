@@ -17,7 +17,9 @@
 - ✨ Game Sometime
 - ✨ Programming Addict
 - ✨ Chit Chat
+
 </br>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=false&theme=default&bar_color=22d016&bar_color_cover=true)](https://www.instagram.com/_william.ts/)
 </br>
 
