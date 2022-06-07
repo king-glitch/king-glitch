@@ -9,10 +9,10 @@
 
 <p align="right">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=false&theme=default&bar_color=22d016&bar_color_cover=true" />
-</div>
+</p>
 <p align="right">
 <img height="470px" alt="GIF" src="https://i.pinimg.com/originals/1f/b7/db/1fb7dbee557e5ed509f7517da8a84d58.gif" />
-</div>
+</p>
 
 <h3>Learning</h3>
 <ul>
