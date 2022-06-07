@@ -7,10 +7,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22F771&vCenter=true&lines=A+perssionate+developer+from+nowhere.)](https://git.io/typing-svg)
 
-<p align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=false&theme=default&bar_color=22d016&bar_color_cover=true)](https://www.instagram.com/_william.ts/)
-</p>
-<img height="390px" alt="GIF" align="right" src="https://i.pinimg.com/originals/1f/b7/db/1fb7dbee557e5ed509f7517da8a84d58.gif">
+
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=false&theme=default&bar_color=22d016&bar_color_cover=true" />
+<img height="390px" alt="GIF" align="right" src="https://i.pinimg.com/originals/1f/b7/db/1fb7dbee557e5ed509f7517da8a84d58.gif" />
 
 ### Learning
 - 🔭 I’m currently working on **something**
