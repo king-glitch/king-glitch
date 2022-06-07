@@ -13,7 +13,7 @@
   <li>🔭 I’m currently working on <b>something</b></li>
   <li>🤝 I’m looking for help with <b>something</b></li>
  </ul>
- <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=false&theme=default&bar_color=22d016&bar_color_cover=true" />
+ <img  src="https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=false&theme=default&bar_color=22d016&bar_color_cover=true" />
 </p>
 <p>
  <h3>Hobbies</h3>
@@ -22,7 +22,7 @@
   <li>✨ Game Sometime</b></li>
   <li>✨ Chit Chat</b></li>
  </ul>
- <img height="470px" align="right"  alt="GIF" src="https://i.pinimg.com/originals/1f/b7/db/1fb7dbee557e5ed509f7517da8a84d58.gif" />
+ <img height="470px"  alt="GIF" src="https://i.pinimg.com/originals/1f/b7/db/1fb7dbee557e5ed509f7517da8a84d58.gif" />
 </p>
 
 <!--START_SECTION:waka-->
