@@ -9,8 +9,6 @@
 
 <img height="380px" alt="GIF" align="right" src="https://i.pinimg.com/originals/1f/b7/db/1fb7dbee557e5ed509f7517da8a84d58.gif">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=false&theme=default&bar_color=22d016&bar_color_cover=true)](https://www.instagram.com/_william.ts/)
-
 ### Learning
 - 🔭 I’m currently working on **something**
 - 🤝 I’m looking for help with **something**
@@ -19,6 +17,8 @@
 - ✨ Game Sometime
 - ✨ Programming Addict
 - ✨ Chit Chat
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=false&theme=default&bar_color=22d016&bar_color_cover=true)](https://www.instagram.com/_william.ts/)
 </br>
 
 
