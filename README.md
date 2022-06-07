@@ -7,14 +7,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22F771&vCenter=true&lines=A+perssionate+developer+from+nowhere.)](https://git.io/typing-svg)
 
-<p>
+<div>
  <h3>Learning</h3>
  <ul>
   <li>🔭 I’m currently working on <b>something</b></li>
   <li>🤝 I’m looking for help with <b>something</b></li>
  </ul>
  <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=false&theme=default&bar_color=22d016&bar_color_cover=true" />
-</p>
+</div>
 <p>
  <h3>Hobbies</h3>
  <ul>
