@@ -18,12 +18,13 @@
 </div>
 <div>
  <h3>Hobbies</h3>
+ <img align="right" height="470px"  alt="GIF" src="https://i.pinimg.com/originals/1f/b7/db/1fb7dbee557e5ed509f7517da8a84d58.gif" />
  <ul>
   <li>✨ Programming Addict</b></li>
   <li>✨ Game Sometime</b></li>
   <li>✨ Chit Chat</b></li>
  </ul>
- <img align="right" height="470px"  alt="GIF" src="https://i.pinimg.com/originals/1f/b7/db/1fb7dbee557e5ed509f7517da8a84d58.gif" />
+ 
 </div>
 
 <!--START_SECTION:waka-->
