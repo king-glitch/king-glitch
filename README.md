@@ -7,19 +7,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22F771&vCenter=true&lines=A+perssionate+developer+from+nowhere.)](https://git.io/typing-svg)
 
-<p align="right">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=false&theme=default&bar_color=22d016&bar_color_cover=true" />
+<p >
+ <h3>Learning</h3>
+<ul>
+ <li>🔭 I’m currently working on <b>something</b></li>
+ <li>🤝 I’m looking for help with <b>something</b></li>
+</ul>
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=false&theme=default&bar_color=22d016&bar_color_cover=true" />
 </p>
 <p align="right">
 <img height="470px" alt="GIF" src="https://i.pinimg.com/originals/1f/b7/db/1fb7dbee557e5ed509f7517da8a84d58.gif" />
 </p>
 
 <div style="text-align:right;">
- <h3>Learning</h3>
-<ul>
- <li>🔭 I’m currently working on <b>something</b></li>
- <li>🤝 I’m looking for help with <b>something</b></li>
-</ul>
+ 
 
 <h3>Hobbies</h3>
 <ul>
