@@ -14,9 +14,11 @@
 <img height="470px" alt="GIF" src="https://i.pinimg.com/originals/1f/b7/db/1fb7dbee557e5ed509f7517da8a84d58.gif" />
 </div>
 
-<h1>Learning</h1>
-- 🔭 I’m currently working on **something**
-- 🤝 I’m looking for help with **something**
+<h2>Learning</h2>
+<ul>
+ <li>🔭 I’m currently working on <b>something</b></li>
+ <li>🤝 I’m looking for help with <b>something</b></li>
+</ul>
 
 ### Hobbies
 - ✨ Game Sometime
