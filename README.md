@@ -9,11 +9,12 @@
 
 <div>
  <h3>Learning</h3>
+ <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=false&theme=default&bar_color=22d016&bar_color_cover=true" />
  <ul>
   <li>🔭 I’m currently working on <b>something</b></li>
   <li>🤝 I’m looking for help with <b>something</b></li>
  </ul>
- <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=false&theme=default&bar_color=22d016&bar_color_cover=true" />
+ 
 </div>
 <p>
  <h3>Hobbies</h3>
