@@ -28,6 +28,10 @@
  
 </div>
 
+
+
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Statistics
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -38,8 +42,6 @@ Other        21 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Statistics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=king-glitch)  
 
