@@ -33,11 +33,84 @@
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> WAKA
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-225%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 809 Contributions in the Year 2022
+ > 
+> 📦 353.0 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 10 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+🌞 Morning    152 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
+🌆 Daytime    237 commits    ███████░░░░░░░░░░░░░░░░░░   28.55% 
+🌃 Evening    323 commits    █████████░░░░░░░░░░░░░░░░   38.92% 
+🌙 Night      118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.22%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       148 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.83% 
+Tuesday      133 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
+Wednesday    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
+Thursday     160 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.28% 
+Friday       105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+Saturday     103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
+Sunday       100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.05%
+
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
+🔥 Editors: 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
+🐱‍💻 Projects: 
+aads-server              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
+💻 Operating System: 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     8 repos             █████████░░░░░░░░░░░░░░░░   38.1% 
+TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/king-glitch/king-glitch/main/charts/bar_graph.png) 
+
+
+ Last Updated on 05/08/2022 01:45:44 UTC
 <!--END_SECTION:waka-->
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Statistics
 ![Profile Views](https://komarev.com/ghpvc/?username=king-glitch)  
