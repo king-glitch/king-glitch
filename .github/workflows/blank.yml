@@ -21,6 +21,8 @@ jobs:
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           COMMIT_BY_ME: "True"
+          TIME_RANGE: all_time
+          SHOW_MASKED_TIME: true
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_EDITORS: "True"
