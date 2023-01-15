@@ -33,14 +33,85 @@
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> WAKA
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C276%20hrs%2011%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-265%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 7 Contributions in the Year 2023
+ > 
+> 📦 438.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 11 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
-Total Time: 1,275 hrs 39 mins
+🌞 Morning    204 commits    █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+🌆 Daytime    389 commits    ██████████░░░░░░░░░░░░░░░   40.86% 
+🌃 Evening    249 commits    ██████░░░░░░░░░░░░░░░░░░░   26.16% 
+🌙 Night      110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.55%
 
-TypeScript             719 hrs 20 mins ██████████████░░░░░░░░░░░   56.39 %
-Other                  137 hrs 12 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       195 commits    █████░░░░░░░░░░░░░░░░░░░░   20.48% 
+Tuesday      142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
+Wednesday    136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Thursday     180 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.91% 
+Friday       113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.87% 
+Saturday     100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
+Sunday       86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.03%
+
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+TypeScript               1 hr 36 mins        █████████████████████████   99.79% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+
+🔥 Editors: 
+VS Code                  1 hr 37 mins        █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+codingformetaverse-contes1 hr 37 mins        █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  1 hr 37 mins        █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               8 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Java                     8 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/king-glitch/king-glitch/main/charts/bar_graph.png) 
+
+
+ Last Updated on 15/01/2023 01:22:12 UTC
 <!--END_SECTION:waka-->
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Statistics
 ![Profile Views](https://komarev.com/ghpvc/?username=king-glitch)  
