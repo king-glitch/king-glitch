@@ -33,15 +33,84 @@
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> WAKA
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C353%20hrs%2021%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 443.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 346 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-Total Time: 1,351 hrs 49 mins
+🌞 Morning                774 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+🌆 Daytime                1975 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
+🌃 Evening                1642 commits        ████████░░░░░░░░░░░░░░░░░   32.93 % 
+🌙 Night                  595 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+```
+📅 **I'm Most Productive on Monday** 
 
-TypeScript             736 hrs 45 mins █████████████▓░░░░░░░░░░░   54.50 %
-Python                 152 hrs 52 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-Other                  140 hrs 11 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+```text
+Monday                   946 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Tuesday                  751 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Wednesday                805 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Thursday                 617 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Friday                   628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Saturday                 621 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Sunday                   618 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Python                   2 hrs 28 mins       ████████████████░░░░░░░░░   63.71 % 
+Other                    1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 52 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+image-downloader         3 hrs 52 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/king-glitch/king-glitch/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/04/2023 01:09:06 UTC
 <!--END_SECTION:waka-->
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Statistics
 ![Profile Views](https://komarev.com/ghpvc/?username=king-glitch)  
