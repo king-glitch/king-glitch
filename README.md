@@ -33,17 +33,10 @@
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> WAKA
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C333%20hrs%2034%20mins-blue)
 
-```Go
-Total Time: 2,333 hrs 34 mins
 
-TypeScript             1,077 hrs 34 mins███████████▓░░░░░░░░░░░░░   46.18 %
-Go                     298 hrs         ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-Python                 209 hrs 32 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-Other                  164 hrs 14 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-YAML                   118 hrs 33 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-```
-
+ Last Updated on 09/09/2024 01:15:34 UTC
 <!--END_SECTION:waka-->
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Statistics
 ![Profile Views](https://komarev.com/ghpvc/?username=king-glitch)  
