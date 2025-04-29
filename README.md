@@ -102,16 +102,8 @@ Mac                      41 hrs              ███████████�
 </h2>
 
 <div align="center" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin: 20px 0;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=king-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" alt="Most Used Languages" />
-</div>
-
-<div align="center" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/github-contribution-grid-snake.svg" />
-</div>
-
-<div align="center" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin: 20px 0;">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=king-glitch&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=king-glitch&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-glitch&layout=compact&theme=dracula&hide_border=true&langs_count=6&bg_color=00000000" alt="Most Used Languages" />
 </div>
 
 <h2 align="center">
