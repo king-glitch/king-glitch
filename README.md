@@ -42,12 +42,6 @@
 </div>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/sparkles.gif" width="35px" height="35px">
-  Coding Activity
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/sparkles.gif" width="35px" height="35px">
-</h2>
-
-<h2 align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/clock.gif" width="35px" height="35px">
   Development Time Stats
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/clock.gif" width="35px" height="35px">
