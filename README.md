@@ -47,10 +47,6 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/sparkles.gif" width="35px" height="35px">
 </h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=king-glitch&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph">
-</div>
-
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/clock.gif" width="35px" height="35px">
   Development Time Stats
