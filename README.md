@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=200&section=header&text=Hey%20there%2C%20I'm%20William!&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Turning%20Ideas%20into%20Reality&descAlignY=60&descAlign=62" width="100%" alt="Banner" />
 </div>
 
-<div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240820597-a762dc06-3a4c-432e-8679-a99fe8a433b7.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250429T194826Z&X-Amz-Expires=300&X-Amz-Signature=150876cfb3252fbe0accff8ec33ac82c3efde1f1b01c355cac976189bdd1ac28&X-Amz-SignedHeaders=host" width="25px" height="25px"> 
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/stars.gif" width="25px" height="25px">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240820597-a762dc06-3a4c-432e-8679-a99fe8a433b7.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250429T194826Z&X-Amz-Expires=300&X-Amz-Signature=150876cfb3252fbe0accff8ec33ac82c3efde1f1b01c355cac976189bdd1ac28&X-Amz-SignedHeaders=host" width="25px" height="25px">
-</div>
-
 <div class="about-section">
  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12129734423&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
  
