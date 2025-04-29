@@ -9,20 +9,20 @@
  
  <h3><img src="https://i.gifer.com/2ull.gif" width="48px" height="48px" /> What I'm Up To</h3>
  <ul>
-  <li>🔭 Making <b>random projects</b> when boredom strikes</li>
-  <li>🤝 Copying <b>Stack Overflow answers</b> and pretending I understand them</li>
-  <li>📚 Trying to figure out <b>TypeScript and Go</b> without reading the docs</li>
+  <li><img src="https://i.gifer.com/6kk.gif" width="20px" height="20px" /> Making <b>random projects</b> when boredom strikes</li>
+  <li><img src="https://i.gifer.com/6kk.gif" width="20px" height="20px" /> Copying <b>Stack Overflow answers</b> and pretending I understand them</li>
+  <li><img src="https://i.gifer.com/6kk.gif" width="20px" height="20px" /> Trying to figure out <b>TypeScript and Go</b> without reading the docs</li>
  </ul>
 </div>
-                                            
+                                  
 <div>
  <h3><img src="https://i.gifer.com/3nR6.gif" width="48px" height="48px" /> Stuff I Like</h3>
  <img align="right" height="350px" alt="Coding Animation" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/cyberpunk-neon-animation.gif" />
  <ul>
-  <li><img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="16px" height="16px" /> <b>Making Code Run</b> - Somehow getting it to work after the 15th try</li>
-  <li><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="16px" height="16px" /> <b>Gaming</b> - Probably playing too much when I should be coding</li>
-  <li><img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="16px" height="16px" /> <b>Tech Stuff</b> - Reading about tech I'll never actually use</li>
-  <li><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="16px" height="16px" /> <b>Abandoned Projects</b> - Starting stuff I'll never finish</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="20px" height="20px" /> <b>Making Code Run</b> - Somehow getting it to work after the 15th try</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="20px" height="20px" /> <b>Gaming</b> - Probably playing too much when I should be coding</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="20px" height="20px" /> <b>Tech Stuff</b> - Reading about tech I'll never actually use</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="20px" height="20px" /> <b>Abandoned Projects</b> - Starting stuff I'll never finish</li>
  </ul>
 </div>
 </div>
