@@ -39,8 +39,8 @@
 </h2>
 
 <div align="center" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin: 20px 0;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=king-glitch&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-glitch&layout=compact&theme=dracula&hide_border=true&langs_count=6&bg_color=00000000" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=king-glitch&show_icons=true&theme=catppuccin_mocha&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-glitch&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6&bg_color=00000000" alt="Most Used Languages" />
 </div>
 
 <h2 align="center">
