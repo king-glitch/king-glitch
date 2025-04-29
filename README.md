@@ -37,20 +37,12 @@
   <i>A curious mind with a passion for elegant solutions</i>
 </h3>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Line.gif" width="100%" height="8px">
-</div>
 
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Line.gif" width="100%" height="8px">
-</div>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/stats.gif" width="35px" height="35px">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="35px" height="35px">
   GitHub Statistics
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/stats.gif" width="35px" height="35px">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="35px" height="35px">
 </h2>
 
 <div align="center" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin: 20px 0;">
