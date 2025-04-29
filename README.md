@@ -17,7 +17,7 @@
                                             
 
 <div>
- <h3>💫 Stuff I Like</h3>
+ <h3><img src="https://i.gifer.com/3nR6.gif" width="24px" height="24px" /> Stuff I Like</h3>
  <img align="right" height="350px" alt="Coding Animation" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/cyberpunk-neon-animation.gif" />
  <ul>
   <li><img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="16px" height="16px" /> <b>Making Code Run</b> - Somehow getting it to work after the 15th try</li>
@@ -31,7 +31,6 @@
 <h3 align="center">
   <i>Just trying to look busy while VS Code is open</i>
 </h3>
-
 
 
 <h2 align="center">
