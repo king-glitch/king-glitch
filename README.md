@@ -51,9 +51,9 @@
 </div>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/trophy.gif" width="35px" height="35px">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="35px" height="35px">
   GitHub Achievements
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/trophy.gif" width="35px" height="35px">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="35px" height="35px">
 </h2>
 
 <div align="center" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin: 20px 0;">
@@ -61,9 +61,9 @@
 </div>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/clock.gif" width="35px" height="35px">
+  <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="35px" height="35px">
   Development Time Stats
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/clock.gif" width="35px" height="35px">
+  <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="35px" height="35px">
 </h2>
 
 <!--START_SECTION:waka-->
