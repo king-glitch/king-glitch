@@ -50,7 +50,7 @@
 </h2>
 
 <div align="center" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=king-glitch&theme=dracula&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=king-glitch&theme=dracula&no-frame=true&column=8&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
 
 <h2 align="center">
