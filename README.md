@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=200&section=header&text=Hey%20there%2C%20I'm%20William!&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Turning%20Ideas%20into%20Reality&descAlignY=60&descAlign=62" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=200&section=header&text=Hey%20there%2C%20I'm%20William!&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Barely%20Functioning%20Developer&descAlignY=60&descAlign=62" width="100%" alt="Banner" />
 </div>
 
 <div class="about-section">
  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12129734423&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
  
- <p>Sup! I'm William, just a coder who likes making cool stuff that actually works. When I'm not knee-deep in code or thinking up new features, I'm probably checking out tech stuff online or brewing some green tea.</p>
+ <p>Sup! I'm William, just a guy who writes code that sometimes works. When I'm not procrastinating or googling basic syntax errors, I'm probably scrolling through Reddit or brewing some green tea.</p>
  
  <h3>🌱 What I'm Up To</h3>
  <ul>
-  <li>🔭 Making <b>stuff that fixes real problems</b> (when I feel like it)</li>
-  <li>🤝 Helping out with <b>open-source when it looks interesting</b></li>
-  <li>📚 Playing around with <b>TypeScript tricks and Go's parallel stuff</b></li>
+  <li>🔭 Making <b>random projects</b> when boredom strikes</li>
+  <li>🤝 Copying <b>Stack Overflow answers</b> and pretending I understand them</li>
+  <li>📚 Trying to figure out <b>TypeScript and Go</b> without reading the docs</li>
  </ul>
 </div>
 
@@ -19,16 +19,16 @@
  <h3>💫 Stuff I Like</h3>
  <img align="right" height="350px" alt="Coding Animation" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/cyberpunk-neon-animation.gif" />
  <ul>
-  <li>✨ <b>Making Code Look Good</b> - Fixing messy problems with neat code</li>
-  <li>✨ <b>Gaming</b> - Mostly strategy games cuz they're fun</li>
-  <li>✨ <b>Tech Talk</b> - Chatting about cool tech with whoever's interested</li>
-  <li>✨ <b>Making Random Things</b> - Digital stuff or whatever projects I feel like at home</li>
+  <li>✨ <b>Making Code Run</b> - Somehow getting it to work after the 15th try</li>
+  <li>✨ <b>Gaming</b> - Probably playing too much when I should be coding</li>
+  <li>✨ <b>Tech Stuff</b> - Reading about tech I'll never actually use</li>
+  <li>✨ <b>Abandoned Projects</b> - Starting stuff I'll never finish</li>
  </ul>
 </div>
 </div>
 
 <h3 align="center">
-  <i>Just someone who likes to make cool stuff work</i>
+  <i>Just trying to look busy while VS Code is open</i>
 </h3>
 
 
