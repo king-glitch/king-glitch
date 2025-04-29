@@ -14,15 +14,16 @@
   <li>📚 Trying to figure out <b>TypeScript and Go</b> without reading the docs</li>
  </ul>
 </div>
+                                            
 
 <div>
  <h3>💫 Stuff I Like</h3>
  <img align="right" height="350px" alt="Coding Animation" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/cyberpunk-neon-animation.gif" />
  <ul>
-  <li>✨ <b>Making Code Run</b> - Somehow getting it to work after the 15th try</li>
-  <li>✨ <b>Gaming</b> - Probably playing too much when I should be coding</li>
-  <li>✨ <b>Tech Stuff</b> - Reading about tech I'll never actually use</li>
-  <li>✨ <b>Abandoned Projects</b> - Starting stuff I'll never finish</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="12px" height="12px" /> <b>Making Code Run</b> - Somehow getting it to work after the 15th try</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="12px" height="12px" /> <b>Gaming</b> - Probably playing too much when I should be coding</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="12px" height="12px" /> <b>Tech Stuff</b> - Reading about tech I'll never actually use</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="12px" height="12px" /> <b>Abandoned Projects</b> - Starting stuff I'll never finish</li>
  </ul>
 </div>
 </div>
