@@ -41,11 +41,7 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Line.gif" width="100%" height="8px">
 </div>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/clock.gif" width="35px" height="35px">
-  Development Time Stats
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/clock.gif" width="35px" height="35px">
-</h2>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Line.gif" width="100%" height="8px">
@@ -72,6 +68,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=king-glitch&theme=dracula&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
 
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/clock.gif" width="35px" height="35px">
+  Development Time Stats
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/clock.gif" width="35px" height="35px">
+</h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C814%20hrs%2049%20mins-blue)
