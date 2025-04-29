@@ -7,7 +7,7 @@
  
  <p>Sup! I'm William, just a guy who writes code that sometimes works. When I'm not procrastinating or googling basic syntax errors, I'm probably scrolling through Reddit or brewing some green tea.</p>
  
- <h3>🌱 What I'm Up To</h3>
+ <h3><img src="https://i.gifer.com/2ull.gif" width="48px" height="48px" /> What I'm Up To</h3>
  <ul>
   <li>🔭 Making <b>random projects</b> when boredom strikes</li>
   <li>🤝 Copying <b>Stack Overflow answers</b> and pretending I understand them</li>
@@ -15,7 +15,6 @@
  </ul>
 </div>
                                             
-
 <div>
  <h3><img src="https://i.gifer.com/3nR6.gif" width="48px" height="48px" /> Stuff I Like</h3>
  <img align="right" height="350px" alt="Coding Animation" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/cyberpunk-neon-animation.gif" />
