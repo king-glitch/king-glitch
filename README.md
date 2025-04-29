@@ -3,38 +3,38 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/wave.gif" width="25px" height="25px"> 
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240820597-a762dc06-3a4c-432e-8679-a99fe8a433b7.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250429T194826Z&X-Amz-Expires=300&X-Amz-Signature=150876cfb3252fbe0accff8ec33ac82c3efde1f1b01c355cac976189bdd1ac28&X-Amz-SignedHeaders=host" width="25px" height="25px"> 
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/stars.gif" width="25px" height="25px">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/wave.gif" width="25px" height="25px">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240820597-a762dc06-3a4c-432e-8679-a99fe8a433b7.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250429T194826Z&X-Amz-Expires=300&X-Amz-Signature=150876cfb3252fbe0accff8ec33ac82c3efde1f1b01c355cac976189bdd1ac28&X-Amz-SignedHeaders=host" width="25px" height="25px">
 </div>
 
 <div class="about-section">
  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12129734423&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
  
- <p>Hey there! I'm William, a developer who believes that code should be both powerful and delightful. When I'm not wrestling with algorithms or designing new features, you can find me exploring the latest tech trends or perfecting my coffee brewing technique.</p>
+ <p>Sup! I'm William, just a coder who likes making cool stuff that actually works. When I'm not knee-deep in code or thinking up new features, I'm probably checking out tech stuff online or trying to make the perfect cup of coffee.</p>
  
- <h3>🌱 Current Focus</h3>
+ <h3>🌱 What I'm Up To</h3>
  <ul>
-  <li>🔭 Building <b>innovative solutions that solve real-world problems</b></li>
-  <li>🤝 Collaborating on <b>open-source projects that make a difference</b></li>
-  <li>📚 Diving deep into <b>advanced TypeScript patterns and Go concurrency</b></li>
+  <li>🔭 Making <b>stuff that fixes real problems</b> (when I feel like it)</li>
+  <li>🤝 Helping out with <b>open-source when it looks interesting</b></li>
+  <li>📚 Playing around with <b>TypeScript tricks and Go's parallel stuff</b></li>
  </ul>
 </div>
 
 <div>
- <h3>💫 Passions & Interests</h3>
+ <h3>💫 Stuff I Like</h3>
  <img align="right" height="350px" alt="Coding Animation" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/cyberpunk-neon-animation.gif" />
  <ul>
-  <li>✨ <b>Creative Coding</b> - Turning complex problems into elegant solutions</li>
-  <li>✨ <b>Gaming</b> - Strategy games that make me think differently</li>
-  <li>✨ <b>Technology Discussions</b> - Love exchanging ideas and learning from others</li>
-  <li>✨ <b>Building Things</b> - From digital products to DIY projects at home</li>
+  <li>✨ <b>Making Code Look Good</b> - Fixing messy problems with neat code</li>
+  <li>✨ <b>Gaming</b> - Mostly strategy games cuz they're fun</li>
+  <li>✨ <b>Tech Talk</b> - Chatting about cool tech with whoever's interested</li>
+  <li>✨ <b>Making Random Things</b> - Digital stuff or whatever projects I feel like at home</li>
  </ul>
 </div>
 </div>
 
 <h3 align="center">
-  <i>A curious mind with a passion for elegant solutions</i>
+  <i>Just someone who likes to make cool stuff work</i>
 </h3>
 
 
