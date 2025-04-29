@@ -47,6 +47,32 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/clock.gif" width="35px" height="35px">
 </h2>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Line.gif" width="100%" height="8px">
+</div>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/stats.gif" width="35px" height="35px">
+  GitHub Statistics
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/stats.gif" width="35px" height="35px">
+</h2>
+
+<div align="center" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin: 20px 0;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=king-glitch&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-glitch&layout=compact&theme=dracula&hide_border=true&langs_count=6&bg_color=00000000" alt="Most Used Languages" />
+</div>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/trophy.gif" width="35px" height="35px">
+  GitHub Achievements
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/trophy.gif" width="35px" height="35px">
+</h2>
+
+<div align="center" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin: 20px 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=king-glitch&theme=dracula&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</div>
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C814%20hrs%2049%20mins-blue)
 
@@ -90,28 +116,3 @@ Mac                      41 hrs              ███████████�
 
  Last Updated on 29/04/2025 00:22:42 UTC
 <!--END_SECTION:waka-->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Line.gif" width="100%" height="8px">
-</div>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/stats.gif" width="35px" height="35px">
-  GitHub Statistics
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/stats.gif" width="35px" height="35px">
-</h2>
-
-<div align="center" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin: 20px 0;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=king-glitch&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-glitch&layout=compact&theme=dracula&hide_border=true&langs_count=6&bg_color=00000000" alt="Most Used Languages" />
-</div>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/trophy.gif" width="35px" height="35px">
-  GitHub Achievements
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/trophy.gif" width="35px" height="35px">
-</h2>
-
-<div align="center" style="background-color: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=king-glitch&theme=dracula&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-</div>
