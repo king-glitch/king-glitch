@@ -10,8 +10,8 @@
  <h3><img src="https://i.gifer.com/2ull.gif" width="48px" height="48px" /> What I'm Up To</h3>
  <ul>
   <li><img src="https://i.gifer.com/6kk.gif" width="20px" height="20px" /> Making <b>random projects</b> when boredom strikes</li>
-  <li><img src="https://i.gifer.com/6kk.gif" width="20px" height="20px" /> Copying <b>Stack Overflow answers</b> and pretending I understand them</li>
-  <li><img src="https://i.gifer.com/6kk.gif" width="20px" height="20px" /> Trying to figure out <b>TypeScript and Go</b> without reading the docs</li>
+  <li><img src="https://i.gifer.com/origin/16/166b228a1ce8bfd027eaa486f42b1da4_w200.webp" width="20px" height="20px" /> Copying <b>Stack Overflow answers</b> and pretending I understand them</li>
+  <li><img src="https://i.gifer.com/origin/ad/ade44741a88c3962f3cc51bd5bdea65b_w200.webp" width="20px" height="20px" /> Trying to figure out <b>TypeScript and Go</b> without reading the docs</li>
  </ul>
 </div>
                                   
