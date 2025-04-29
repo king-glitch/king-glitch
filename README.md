@@ -5,7 +5,7 @@
 <div class="about-section">
  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12129734423&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
  
- <p>Sup! I'm William, just a coder who likes making cool stuff that actually works. When I'm not knee-deep in code or thinking up new features, I'm probably checking out tech stuff online or trying to make the perfect cup of coffee.</p>
+ <p>Sup! I'm William, just a coder who likes making cool stuff that actually works. When I'm not knee-deep in code or thinking up new features, I'm probably checking out tech stuff online or brewing some green tea.</p>
  
  <h3>🌱 What I'm Up To</h3>
  <ul>
