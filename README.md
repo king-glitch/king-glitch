@@ -60,15 +60,8 @@
 </h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C956%20hrs%2038%20mins-blue)
 
-```Go
-Total Time: 4,955 hrs 9 mins
 
-TypeScript                 2,126 hrs 47 mins██████████▓░░░░░░░░░░░░░░   42.92 %
-Go                         1,539 hrs 55 mins███████▓░░░░░░░░░░░░░░░░░   31.08 %
-Python                     248 hrs 32 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Other                      193 hrs 53 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-JavaScript                 86 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-```
-
+ Last Updated on 03/01/2026 18:04:20 UTC
 <!--END_SECTION:waka-->
