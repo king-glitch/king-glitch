@@ -60,14 +60,45 @@
 </h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C510%20hrs-blue?style=flat)
 
-```Go
-Total Time: 5,509 hrs 4 mins
+**I'm an Early 🐤** 
 
-TypeScript                 2,229 hrs 5 mins      ██████████░░░░░░░░░░░░░░░   40.46 %
-Go                         1,853 hrs             ████████▒░░░░░░░░░░░░░░░░   33.64 %
-Python                     250 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Other                      199 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+```text
+🌞 Morning                1643 commits        ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+🌆 Daytime                1167 commits        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+🌃 Evening                1506 commits        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+🌙 Night                  1288 commits        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   835 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Tuesday                  828 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Wednesday                765 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Thursday                 826 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Friday                   733 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Saturday                 798 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Sunday                   819 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Go                       10 hrs 4 mins       █████████████████░░░░░░░░   69.28 % 
+TypeScript               2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+CSV/TSV                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+
+💻 Operating System: 
+Mac                      14 hrs 33 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 07/05/2026 12:34:03 UTC
 <!--END_SECTION:waka-->
