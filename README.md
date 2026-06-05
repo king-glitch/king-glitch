@@ -60,14 +60,43 @@
 </h2>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
-```Go
-Total Time: 5,650 hrs 36 mins
+```text
+🌞 Morning                1704 commits        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+🌆 Daytime                1256 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+🌃 Evening                1590 commits        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+🌙 Night                  1429 commits        ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+```
+📅 **I'm Most Productive on Tuesday** 
 
-TypeScript                 2,264 hrs 20 mins     ██████████░░░░░░░░░░░░░░░   40.07 %
-Go                         1,908 hrs 2 mins      ████████▒░░░░░░░░░░░░░░░░   33.77 %
-Python                     251 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Other                      199 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+```text
+Monday                   864 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Tuesday                  895 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Wednesday                799 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Thursday                 860 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Friday                   809 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Saturday                 876 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Sunday                   876 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Go                       10 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   40.46 % 
+TypeScript               7 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+Markdown                 2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+JavaScript               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+
+💻 Operating System: 
+Mac                      26 hrs 5 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 05/06/2026 18:38:00 UTC
 <!--END_SECTION:waka-->
