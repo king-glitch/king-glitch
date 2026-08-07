@@ -60,14 +60,71 @@
 </h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C623%20hrs%2019%20mins-blue?style=flat)
 
-```Go
-Total Time: 5,825 hrs 15 mins
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2051%20mins-blue?style=flat)
 
-TypeScript                 2,302 hrs 21 mins     ██████████░░░░░░░░░░░░░░░   39.52 %
-Go                         1,994 hrs 33 mins     ████████▓░░░░░░░░░░░░░░░░   34.24 %
-Python                     251 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Other                      201 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1771 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+🌆 Daytime                1357 commits        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+🌃 Evening                1722 commits        ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+🌙 Night                  1517 commits        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   912 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Tuesday                  959 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Wednesday                859 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Thursday                 909 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Friday                   855 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Saturday                 949 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Sunday                   924 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Go                       7 hrs 27 mins       █████████████░░░░░░░░░░░░   50.30 % 
+TypeScript               2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Markdown                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+C#                       55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+
+💻 Operating System: 
+Mac                      14 hrs 50 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 1 min (54.12%)
+
+✍️ 18,324 lines written by AI, 2,072 lines written by hand (89.84% AI-written)
+
+🔤 259,337,661 Input Tokens, 906,983 Output Tokens
+
+💵 $912.13 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 124 AI Prompts
+
+Opus                     15,009 lines        ████████████████████░░░░░   80.92 % 
+Sonnet                   3,539 lines         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 89.84% of written lines came from AI
+📚 Verbose Prompter — average 4,621 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 18.13% of changed lines were hand-edited
+```
+
+
+ Last Updated on 07/08/2026 01:10:57 UTC
 <!--END_SECTION:waka-->
