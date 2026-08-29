@@ -22,6 +22,8 @@ jobs:
           CODE_LANG: "Go"
           IGNORED_LANGUAGES: YAML JSON TOML
           SHOW_PROJECTS: "False"
+          SHOW_AI_CODING: "False"
+          SHOW_AI_CODE_TIME: "False"
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
